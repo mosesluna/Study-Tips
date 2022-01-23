@@ -1,6 +1,6 @@
 # Study-Tips
 
-#### Submission for Sheridan Hackville 2022 \
+#### Submission for Sheridan Hackville 2022 
 #### Won best domain name at Sheridan Hackville 2022
 
 \
